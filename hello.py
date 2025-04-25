@@ -1,4 +1,4 @@
-# Training on Say hello!
+# Training on Say hello! (7 kyu)
 
 def greet(name):
     if (name == "") or (name == None):  # Make sure that the input is correct
