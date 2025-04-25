@@ -1,4 +1,4 @@
-# Remove duplicates from a list
+# Remove duplicates from a list (8kyu)
 
 def distinct(seq):
     no_duplicates = []  # Create an empty list
